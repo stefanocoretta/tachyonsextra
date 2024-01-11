@@ -1,0 +1,13 @@
+---
+title: "TachyonsExtra Example"
+filters:
+  - tachyonsextra
+---
+
+::: {.box-note}
+This is a note.
+:::
+
+::: {.box-error}
+This is an error.
+:::
