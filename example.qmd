@@ -8,6 +8,14 @@ filters:
 This is a note.
 :::
 
+::: {.box-tip}
+This is an tip.
+:::
+
+::: {.box-warning}
+This is a warning.
+:::
+
 ::: {.box-error}
 This is an error.
 :::

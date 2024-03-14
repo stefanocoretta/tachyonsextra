@@ -9100,8 +9100,3 @@ code, .code {
     vertical-align: bottom;
   }
 }
-.box-x p, .box-note p, .box-tip p, .box-warning p, .box-error p {
-  margin-bottom: 0 !important;
-}
-
-/*# sourceMappingURL=tachyonsextra.css.map */
